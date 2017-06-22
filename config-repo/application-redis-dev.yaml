@@ -1,6 +1,6 @@
 #zookeeper配置
 redis:
  url: 
-  - localhost:3185
+  - localhost:3186
   - localhost:3181
   - localhost:3182
