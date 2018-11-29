@@ -1,7 +1,7 @@
 #测试
 app:
   remoteAddress: 127.0.0.1
-  name: fakeeeer雕娜星
+  name: fakeeeer雕娜星是是是
   childConfig:
     name: mingo
 #测试
