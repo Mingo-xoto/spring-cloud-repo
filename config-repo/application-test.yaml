@@ -1,7 +1,7 @@
 #测试
 app:
   remoteAddress: 127.0.0.1
-  name: spring-boot-test222ffff
+  name: spring-boot-test222ffffsfsff
   childConfig:
     name: mingo
 #测试
