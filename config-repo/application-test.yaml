@@ -1,7 +1,7 @@
 #测试
 app:
   remoteAddress: 127.0.0.1
-  name: fakeeeer测试bus刷新配置6得飞起sss
+  name: fakeeeer测试bussss
   childConfig:
     name: mingo
 #测试
