@@ -1,7 +1,7 @@
 #测试
 app:
   remoteAddress: 127.0.0.1
-  name: 测试配置就是计算机对对对
+  name: 测试配置就是计算机
   childConfig:
     name: mingo
 #测试
