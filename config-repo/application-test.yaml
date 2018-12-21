@@ -1,7 +1,7 @@
 #测试
 app:
   remoteAddress: 127.0.0.1
-  name: 测试配置测试配置client
+  name: 测试配置3333
   childConfig:
     name: mingo
 #测试
